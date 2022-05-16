@@ -2,7 +2,7 @@
 I need this kind of script sometimes and maybe some other human will see its usability.
 
 # Usage
-./yaml-extractor <FILE>
+./yaml-extractor FILE
 
 # Result
 All YAML blocks (separated by "---") get isolated and saved in a new directory (./extracted) with their KIND and NAME.
